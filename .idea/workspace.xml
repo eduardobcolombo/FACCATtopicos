@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbeaa3dc-45d7-4cdb-af59-09bea92d1f16" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/FACCATtopicos.iml" afterPath="$PROJECT_DIR$/.idea/FACCATtopicos.iml" />
+=======
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +18,24 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="database.sqlite" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="FACCATtopicos" />
@@ -24,8 +45,13 @@
       <file leaf-file-name="CustomersController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/app/Http/Controllers/CustomersController.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="630">
               <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+=======
+            <state relative-caret-position="675">
+              <caret line="45" column="58" lean-forward="false" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
@@ -33,66 +59,115 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="AppServiceProvider.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/app/Providers/AppServiceProvider.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+=======
+      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/resources/views/auth/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+=======
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+=======
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="auth.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/topicos/config/auth.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
               <caret line="55" column="67" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
+=======
+      <file leaf-file-name="UsersTableSeeder.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/topicos/database/seeds/UsersTableSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+=======
+      <file leaf-file-name=".env.example" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/.env.example">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="RepositoryServiceProvider.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/app/Providers/RepositoryServiceProvider.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
               <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+=======
+      <file leaf-file-name="AdminCustomerRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/app/Http/Requests/AdminCustomerRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="CustomerService.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/app/Services/CustomerService.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,25 +176,46 @@
               <folding>
                 <element signature="e#31#55#0#PHP" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+              <folding />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/topicos/config/app.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2988">
               <caret line="166" column="70" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
+=======
+      <file leaf-file-name="edit.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerRepositoryEloquent.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/topicos/app/Repositories/CustomerRepositoryEloquent.php">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+            <state relative-caret-position="450">
+              <caret line="30" column="49" lean-forward="false" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <folding />
             </state>
           </provider>
@@ -150,17 +246,13 @@
       <list>
         <option value="$PROJECT_DIR$/topicos/storage/database.sqlite" />
         <option value="$PROJECT_DIR$/topicos/.env" />
-        <option value="$PROJECT_DIR$/topicos/database/database.sqlite" />
-        <option value="$PROJECT_DIR$/topicos/.env.example" />
         <option value="$PROJECT_DIR$/topicos/app/Http/Middleware/CheckRole.php" />
         <option value="$PROJECT_DIR$/topicos/app/Http/Kernel.php" />
-        <option value="$PROJECT_DIR$/topicos/resources/views/admin/customers/index.blade.php" />
         <option value="$PROJECT_DIR$/topicos/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/topicos/routes/web.php" />
         <option value="$PROJECT_DIR$/topicos/config/services.php" />
         <option value="$PROJECT_DIR$/topicos/app/Models/Customers.php" />
         <option value="$PROJECT_DIR$/topicos/resources/views/admin/customers/create.blade.php" />
-        <option value="$PROJECT_DIR$/topicos/database/migrations/2017_03_11_140815_Customers.php" />
         <option value="$PROJECT_DIR$/topicos/resources/views/admin/customers/_form.blade.php" />
         <option value="$PROJECT_DIR$/topicos/resources/views/errors/_check.blade.php" />
         <option value="$PROJECT_DIR$/topicos/composer.json" />
@@ -170,10 +262,22 @@
         <option value="$PROJECT_DIR$/topicos/app/Models/Customer.php" />
         <option value="$PROJECT_DIR$/topicos/vendor/composer/autoload_static.php" />
         <option value="$PROJECT_DIR$/topicos/app/Services/CustomerService.php" />
-        <option value="$PROJECT_DIR$/topicos/app/Http/Controllers/CustomersController.php" />
         <option value="$PROJECT_DIR$/topicos/app/Providers/RouteServiceProvider.php" />
         <option value="$PROJECT_DIR$/topicos/app/Providers/RepositoryServiceProvider.php" />
         <option value="$PROJECT_DIR$/topicos/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/topicos/database/migrations/2017_03_11_140815_Customers.php" />
+        <option value="$PROJECT_DIR$/topicos/database/migrations/2017_03_11_163656_create_customers_table.php" />
+        <option value="$PROJECT_DIR$/topicos/database/database.sqlite" />
+        <option value="$PROJECT_DIR$/topicos/database/factories/ModelFactory.php" />
+        <option value="$PROJECT_DIR$/topicos/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/topicos/database/seeds/UsersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/topicos/database/seeds/CustomerTableSeeder.php" />
+        <option value="$PROJECT_DIR$/topicos/resources/views/admin/customers/index.blade.php" />
+        <option value="$PROJECT_DIR$/topicos/resources/views/admin/customers/edit.blade.php" />
+        <option value="$PROJECT_DIR$/topicos/app/Http/Requests/AdminCustomerRequest.php" />
+        <option value="$PROJECT_DIR$/topicos/app/Http/Controllers/CustomersController.php" />
+        <option value="$PROJECT_DIR$/topicos/.gitignore" />
+        <option value="$PROJECT_DIR$/topicos/.env.example" />
       </list>
     </option>
   </component>
@@ -188,6 +292,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="y" value="27" />
     <option name="width" value="1920" />
     <option name="height" value="1053" />
@@ -201,6 +306,11 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
+=======
+    <option name="y" value="30" />
+    <option name="width" value="1260" />
+    <option name="height" value="674" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -217,6 +327,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -224,6 +338,13 @@
               <option name="myItemId" value="FACCATtopicos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FACCATtopicos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -253,28 +374,104 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="config" />
+=======
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FACCATtopicos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FACCATtopicos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topicos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FACCATtopicos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FACCATtopicos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topicos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seeds" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FACCATtopicos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FACCATtopicos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topicos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factories" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="js.eslint.eslintPackage" value="" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../crossover/crossoverOLD" />
+=======
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/topicos/resources/views/admin/customers" />
+      <recent name="$PROJECT_DIR$/topicos/database" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/topicos/app/Models" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/topicos/database" />
     </key>
   </component>
   <component name="RunManager">
@@ -339,16 +536,26 @@
       <option name="presentableId" value="Default" />
       <updated>1489237562043</updated>
       <workItem from="1489237564700" duration="7137000" />
+<<<<<<< HEAD
       <workItem from="1489402554684" duration="138000" />
       <workItem from="1489501921389" duration="4463000" />
       <workItem from="1489575348036" duration="1428000" />
       <workItem from="1489587721138" duration="7000" />
       <workItem from="1489587751703" duration="37000" />
       <workItem from="1489608656253" duration="585000" />
+=======
+      <workItem from="1489402554684" duration="1660000" />
+      <workItem from="1489839149453" duration="304000" />
+      <workItem from="1491606130592" duration="6688000" />
+      <workItem from="1493471006222" duration="180000" />
+      <workItem from="1493811300365" duration="377000" />
+      <workItem from="1493993509089" duration="2000" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="13795000" />
   </component>
   <component name="ToolWindowManager">
@@ -361,6 +568,30 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26344675" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="16348000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1260" height="674" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2574657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2113402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -393,6 +624,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/topicos/app/Http/Requests/AdminCalorieRequest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
@@ -444,88 +676,146 @@
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Providers/AppServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Providers/RepositoryServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Services/CustomerService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="e#31#55#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Requests/AdminCalorieRequest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="166" column="70" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/config/repository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3270">
-          <caret line="224" column="37" selection-start-line="224" selection-start-column="37" selection-end-line="224" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Models/Customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/topicos/app/Repositories/CustomerRepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/topicos/app/Repositories/CustomerRepositoryEloquent.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< HEAD
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/topicos/storage/database.sqlite">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="495">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="405">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="e#31#55#0#PHP" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="-345">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Middleware/CheckRole.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="435">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+=======
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="2490">
+          <caret line="166" column="70" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
+          <folding />
+=======
+        <state relative-caret-position="225">
+          <caret line="45" column="72" lean-forward="false" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="3270">
+          <caret line="224" column="37" selection-start-line="224" selection-start-column="37" selection-end-line="224" selection-end-column="37" />
+=======
+        <state relative-caret-position="195">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/errors/_check.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="255">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+=======
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/_form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="135">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+=======
+        <state relative-caret-position="40">
+          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/config/auth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/config/database.php">
+    <entry file="file://$PROJECT_DIR$/topicos/composer.json">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-345">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -536,11 +826,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+=======
+        <state relative-caret-position="120">
+          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/resources/views/home.blade.php">
+    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Controllers/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Models/Customers.php" />
+    <entry file="file://$PROJECT_DIR$/topicos/vendor/composer/autoload_static.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="291" column="69" lean-forward="false" selection-start-line="291" selection-start-column="69" selection-end-line="291" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/config/repository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="224" column="37" lean-forward="false" selection-start-line="224" selection-start-column="37" selection-end-line="224" selection-end-column="37" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -551,97 +868,207 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+=======
+        <state relative-caret-position="2490">
+          <caret line="166" column="70" lean-forward="false" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/resources/views/layouts/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/topicos/app/Providers/RouteServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Providers/RepositoryServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="225">
           <caret line="45" column="72" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
+=======
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="220">
+          <caret line="23" column="1" selection-start-line="15" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/database/migrations/2017_03_11_163651_create_customer_repositories_table.php" />
+    <entry file="file://$PROJECT_DIR$/topicos/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="255">
+          <caret line="17" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="11" />
+=======
+        <state relative-caret-position="-140">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Services/CustomerService.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+=======
+        <state relative-caret-position="175">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/topicos/database/migrations/2014_10_12_000000_create_users_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="23" column="1" selection-start-line="15" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/database/migrations/2017_03_11_140815_Customers.php">
-      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="100">
           <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+=======
+        <state relative-caret-position="220">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/resources/views/errors/_check.blade.php">
+    <entry file="file://$PROJECT_DIR$/topicos/database/migrations/2014_10_12_100000_create_password_resets_table.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="90">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+=======
+        <state relative-caret-position="240">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="55" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/_form.blade.php">
+    <entry file="file://$PROJECT_DIR$/topicos/database/migrations/2017_03_11_163607_create_customer_repositories_table.php" />
+    <entry file="file://$PROJECT_DIR$/topicos/database/migrations/2017_03_11_140815_Customers.php" />
+    <entry file="file://$PROJECT_DIR$/topicos/database/migrations/2017_03_11_163656_create_customers_table.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="135">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+=======
+        <state relative-caret-position="400">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Kernel.php">
+    <entry file="file://$PROJECT_DIR$/topicos/database/database.sqlite">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="40">
           <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/config/services.php">
+    <entry file="file://$PROJECT_DIR$/topicos/database/factories/ModelFactory.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="480">
           <caret line="32" column="14" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="14" />
+=======
+        <state relative-caret-position="75">
+          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/composer.json">
+    <entry file="file://$PROJECT_DIR$/topicos/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Repositories/CustomerRepositoryEloquent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicos/app/Models/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="120">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+=======
+        <state relative-caret-position="195">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Controllers/Controller.php">
+    <entry file="dbDummy://dbtable:/26e7a46b/a9c533e7-e0ab-42f0-9170-a5894c447344/customers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a9c533e7-e0ab-42f0-9170-a5894c447344/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Requests/AdminCalorieRequest.php">
+    <entry file="file://$PROJECT_DIR$/topicos/database/seeds/CustomerTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="522">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+=======
+        <state relative-caret-position="195">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Models/Customers.php" />
     <entry file="file://$PROJECT_DIR$/topicos/app/Repositories/CustomerRepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< HEAD
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -682,50 +1109,120 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+=======
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Controllers/HomeController.php">
+    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Controllers/CustomersController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="675">
+          <caret line="45" column="58" lean-forward="false" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/auth/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/config/auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="55" column="67" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/topicos/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/topicos/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/topicos/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/topicos/database/seeds/UsersTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/topicos/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="55" column="67" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
+=======
+    <entry file="file://$PROJECT_DIR$/topicos/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/topicos/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+=======
+    <entry file="file://$PROJECT_DIR$/topicos/app/Http/Requests/AdminCustomerRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topicos/app/Providers/RepositoryServiceProvider.php">
+    <entry file="file://$PROJECT_DIR$/topicos/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="594">
           <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+=======
+        <state relative-caret-position="345">
+          <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/topicos/app/Services/CustomerService.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -740,14 +1237,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2988">
           <caret line="166" column="70" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
+=======
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/topicos/app/Repositories/CustomerRepositoryEloquent.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/topicos/resources/views/admin/customers/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="49" lean-forward="false" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+>>>>>>> cea7d0c15eff4b5b304ca1dcf826bb8b80166840
           <folding />
         </state>
       </provider>

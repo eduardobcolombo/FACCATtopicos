@@ -4,7 +4,7 @@ namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class AdminCalorieRequest extends FormRequest
+class AdminCustomerRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -26,7 +26,7 @@ class AdminCalorieRequest extends FormRequest
         return [
             'name' => 'required',
             'phone' => 'required',
-            'email' => 'required'
+            'email' => 'required|email'
         ];
     }
 }
