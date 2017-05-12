@@ -1,17 +1,9 @@
 @extends('layouts.app')
-
-
 @section('content')
 
-    <div class="container">
-        <h3>Customers</h3>
-
-        <p>
-            <a href="{{ route('admin.customers.create') }}" class="btn btn-default">New Customer</a>
-        </p>
-
-
-
+    <div class="cadastro">
+        <h1>Custumer</h1>
+        <h2><a href="{{ route('admin.customers.create') }}" class="btn btn-default">New Customer</a></h2>
         <table class="table">
             <thread>
                 <tr>
@@ -37,11 +29,6 @@
              @endforeach
             </tbody>
         </table>
-
-
-
     </div>
-
-
 
 @endsection
