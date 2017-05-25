@@ -1,0 +1,41 @@
+.main {
+    width: 500px;
+    margin: 0 auto;
+}
+fieldset {
+    width: 400px;
+    margin-bottom: 40px;
+}
+
+label,input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.erro {
+    color:red;
+     font-weight: bold;
+    margin: 8px;
+}
+
+.sucesso {
+    color:green;
+    font-weight: bold;
+    margin: 8px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 11px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 2px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

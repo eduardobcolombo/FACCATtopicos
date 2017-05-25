@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="css.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>  
+    <script src="jwt-decode.min.js"></script>  
+    <script src="js.js"></script>  
+  </head>
+  <body>
+    <div class="main">
+    <form id="frmIncluir" action="#" >
+      <fieldset>
+         <legend>Incluir</legend>
+         <label for="txtDescricao">Cidade</label>
+         <input type="text" id='txtDescricao' name="txtDescricao" required/>
+         <label for="txtUF">UF</label>
+         <input style="width:10%" type="text" id='txtUF' name="txtUF" required/>
+         <button type='button' id='btnIncluir'>Cadastrar Cidade</button>
+        <div class='sucesso'></div> 
+          <div class='erro'></div> 
+       </fieldset>
+    </form>
+    <form id="frmConsulta">
+      <fieldset>    
+        
+       <legend>Consultar</legend>
+        <div class='erro'></div> 
+        <label for="txtCidade">Cidade</label>
+         <input type="text" id='txtCidade' name="txtCidade" required/>
+          <button type="button" id='btnConsultar'>Busca p/ Cidade</button>  
+      </fieldset>
+        </form>        
+        
+    <div id="lista"></div>   
+    
+  </div>
+  </body>
+   
+   
+</html>

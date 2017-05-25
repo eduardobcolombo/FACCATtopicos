@@ -10,8 +10,12 @@ if (PHP_SAPI == 'cli-server') {
 }
 
 require __DIR__ . '/../vendor/autoload.php';
+spl_autoload_register(function ($classname) {
+    require ("../classes/" . $classname . ".php");
+});
 
 session_start();
+
 
 // Instantiate the app
 $settings = require __DIR__ . '/../src/settings.php';
@@ -26,5 +30,13 @@ require __DIR__ . '/../src/middleware.php';
 // Register routes
 require __DIR__ . '/../src/routes.php';
 
+
+//$mapper = new CityMapper($this->db);
+//$cities = $mapper->getCities();
+var_dump($app->db);
 // Run app
 $app->run();
+
+
+
+
